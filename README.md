@@ -127,5 +127,12 @@ Desarrollo de módulos clínicos, agenda médica, laboratorio y facturación tip
 🔗 [LinkedIn](https://www.linkedin.com/in/francisca-arredondo-20a22a292)
 
 ---
+---
+
+### 📊 GitHub Stats
+![Francisca's GitHub stats](https://github-readme-stats.vercel.app/api?username=franarredondom&show_icons=true&theme=tokyonight)
+
+### 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franarredondom&layout=compact&theme=tokyonight)
 
 ✨ *Last updated: October 2025 / Actualizado: Octubre 2025*
