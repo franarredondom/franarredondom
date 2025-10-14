@@ -1,64 +1,131 @@
 # 👩‍💻 Francisca Arredondo
 
-**Desarrolladora Fullstack** | React · Laravel · Node.js · Django | Analista Programador Computacional  
+**Computer Programming Analyst | Fullstack & Cloud Developer**  
 📍 Chile · 📧 fran.arredondom@gmail.com · [LinkedIn](https://www.linkedin.com/in/francisca-arredondo-20a22a292)
 
----
-
-Soy **Analista Programador Computacional** con enfoque fullstack y experiencia en desarrollo web tanto en frontend como backend. He participado en el desarrollo de plataformas de gestión, e-commerce e integración de APIs, liderando el diseño de interfaces modernas, funcionales y adaptadas al usuario final.
-
-Combino habilidades técnicas sólidas con una gran capacidad de trabajo en equipo y adaptación a distintos entornos de desarrollo, utilizando metodologías ágiles y herramientas de colaboración modernas.
+*(English version below / Versión en español más abajo)*  
 
 ---
 
-## 🛠 Tecnologías y herramientas
+## 🌍 English Version
 
-### 👩‍💻 Lenguajes de programación
-JavaScript · TypeScript · PHP · Python · Java
+I’m a **Computer Programming Analyst** with a solid foundation in software development, database design, and system architecture.  
+I have hands-on experience in **object-oriented programming, fullstack development, cloud computing, and process automation**, contributing to real-world projects involving API integration, management platforms, and SaaS systems.  
 
-### ⚙️ Frameworks y librerías
-React · Laravel · Node.js · Django · Angular · Bootstrap
-
-### 🌐 Tecnologías web
-HTML5 · CSS3 · SASS · APIs RESTful (consumo y creación)
-
-### 🗄️ Bases de datos
-MySQL · PostgreSQL · MongoDB · Firebase (NoSQL)
-
-### 🛒 CMS y eCommerce
-WordPress · WooCommerce
-
-### 🚀 Hosting y despliegue
-Hostinger · cPanel · GitHub Pages · configuración de dominios · SSL · despliegue en producción
-
-### 🔧 Herramientas y control de versiones
-Git · GitHub · GitLab · Docker (básico) · Vite · Postman · Figma
-
-### 📋 Metodologías de trabajo
-Scrum · Kanban · Cascada · Espiral
+I’m passionate about building scalable, well-structured solutions and applying best practices such as SOLID principles and clean code.  
+I enjoy learning new technologies, taking ownership of technical challenges, and working in fast-paced environments where innovation and quality go hand in hand.
 
 ---
 
-## 🚀 Proyectos destacados
+### 🧠 Areas of Expertise
+- **Software Development:** analysis, design, coding, testing, and documentation.  
+- **Object-Oriented Programming (OOP):** design patterns and SOLID principles.  
+- **Architecture & Modeling:** UML diagrams, use cases, relational and NoSQL database design.  
+- **Integration & Automation:** RESTful APIs, web services, deployments, and CI/CD pipelines.  
+- **Cloud & DevOps:** experience with AWS (Lambda, S3, DynamoDB), Docker, Kubernetes, Terraform, and Azure DevOps.  
+- **Development Methodologies:** Scrum, Kanban, Waterfall, Spiral, and Prototyping.  
 
-**🔹 Multi-Stock Sync**  
-Plataforma para sincronización y gestión de productos de Mercado Libre. Incluye carga masiva desde Excel, edición por lotes, filtros avanzados, catálogo obligatorio y simulación de stock/precio en tiempo real.
+---
+
+### 🛠 Technologies & Tools
+**Programming Languages:** JavaScript · TypeScript · Python · PHP · Java · SQL  
+**Frameworks & Libraries:** React · Node.js · Express · Angular  
+**Databases:** MySQL · PostgreSQL · Firebase (NoSQL)  
+**Cloud & Infrastructure:** AWS · Docker · Kubernetes · Terraform · Azure DevOps · GitHub Actions  
+**Version Control & Tools:** Git · GitHub · GitLab · Postman · Figma · Vite  
+
+---
+
+### 🚀 Featured Projects
+**🔹 MultiStock Sync**  
+SaaS platform for product synchronization and management across Mercado Libre and WooCommerce.  
+Includes bulk upload, batch editing, catalog validation, and real-time stock/price simulation.
 
 **🔹 SICAVET**  
-Sistema web para gestión veterinaria. Desarrollo de módulos clínicos, administrativos y de laboratorio. Incluye ficha clínica, agenda médica, solicitudes de exámenes y simulador de facturación tipo Transbank.
+Comprehensive veterinary management system.  
+Developed clinical, administrative, and billing modules using React, Node.js, and Firebase.
 
 ---
 
-## 💬 Sobre mí
-
-- 📌 Experiencia liderando desarrollo frontend y colaborando en arquitectura fullstack  
-- 💡 Apasionada por la creación de soluciones digitales completas y escalables  
-- 🔄 Siempre dispuesta a aprender nuevas tecnologías y metodologías  
-- 👥 Trabajo efectivo en equipo ágil y comunicación clara en entornos técnicos
+### 🎓 Certifications & Complementary Training
+- **Docker for Beginners and Practical Containers** – Udemy  
+- **Kubernetes for Developers (Complete Course)** – Udemy  
+- **Terraform Associate – Infrastructure as Code (AWS/Azure)** – Udemy  
+- **CI/CD with Azure DevOps** – Udemy  
+- **Scrum Foundation Professional Certificate (CertiProf)**  
+- **Introduction to AWS Cloud and Lambda Functions**
 
 ---
 
-## 📫 Contacto
+### 💬 About Me
+- 💡 Motivated by continuous learning and real technical challenges.  
+- ⚙️ Focused on writing clean, modular, and scalable code.  
+- 👥 Strong collaborator with clear communication and self-management skills.  
+- ☁️ Passionate about cloud architecture, automation, and service integration.  
 
-📧 fran.arredondom@gmail.com  
+---
+
+## 🇪🇸 Versión en Español
+
+Soy **Analista Programador Computacional** con una formación integral en desarrollo de software, bases de datos, arquitectura de sistemas y metodologías de ingeniería.  
+Tengo experiencia práctica en **programación orientada a objetos, desarrollo fullstack, cloud computing y automatización de procesos**, participando en proyectos reales de gestión, integración de APIs y plataformas SaaS.  
+
+Me interesa crear soluciones escalables y bien estructuradas, aplicando buenas prácticas de diseño, principios SOLID y control de calidad en cada etapa del ciclo de desarrollo.  
+Disfruto aprender nuevas tecnologías, asumir responsabilidades técnicas y trabajar en entornos donde el ritmo alto se combina con la calidad técnica.
+
+---
+
+### 🧠 Áreas de conocimiento
+- **Desarrollo de software:** análisis, diseño, codificación, pruebas y documentación.  
+- **Programación orientada a objetos (POO):** patrones de diseño y principios SOLID.  
+- **Arquitectura y modelamiento:** diagramas UML, casos de uso, diseño de bases de datos relacionales y NoSQL.  
+- **Integración y automatización:** APIs RESTful, servicios web, despliegues y pipelines CI/CD.  
+- **Cloud & DevOps:** experiencia con AWS (Lambda, S3, DynamoDB), Docker, Kubernetes, Terraform y Azure DevOps.  
+- **Metodologías de desarrollo:** Scrum, Kanban, Cascada, Espiral y Prototipos.  
+
+---
+
+### 🛠 Tecnologías y herramientas
+**Lenguajes de programación:** JavaScript · TypeScript · Python · PHP · Java · SQL  
+**Frameworks y librerías:** React · Node.js · Express · Angular  
+**Bases de datos:** MySQL · PostgreSQL · Firebase (NoSQL)  
+**Cloud & Infraestructura:** AWS · Docker · Kubernetes · Terraform · Azure DevOps · GitHub Actions  
+**Control de versiones y herramientas:** Git · GitHub · GitLab · Postman · Figma · Vite  
+
+---
+
+### 🚀 Proyectos destacados
+**🔹 MultiStock Sync**  
+Plataforma SaaS para sincronización y gestión de productos con Mercado Libre y WooCommerce.  
+Incluye carga masiva, edición por lotes, validaciones de catálogo y simulación de stock/precio en tiempo real.
+
+**🔹 SICAVET**  
+Sistema integral para gestión veterinaria.  
+Desarrollo de módulos clínicos, agenda médica, laboratorio y facturación tipo Transbank, utilizando React, Node.js y Firebase.
+
+---
+
+### 🎓 Certificaciones y formación complementaria
+- **Docker para Principiantes y Contenedores en la Práctica** – Udemy  
+- **Curso Completo de Kubernetes para Desarrolladores** – Udemy  
+- **Terraform Associate (Infraestructura como Código en AWS/Azure)** – Udemy  
+- **CI/CD con Azure DevOps** – Udemy  
+- **Scrum Foundation Professional Certificate (CertiProf)**  
+- **Introducción a AWS Cloud y Lambda Functions**
+
+---
+
+### 💬 Sobre mí
+- 💡 Me motiva el aprendizaje constante y los desafíos técnicos.  
+- ⚙️ Busco escribir código limpio, modular y escalable.  
+- 👥 Disfruto trabajar en equipo y asumir roles técnicos con autonomía.  
+- ☁️ Interés continuo en arquitectura cloud, automatización e integración de servicios.  
+
+---
+
+📫 **Contact:** fran.arredondom@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/francisca-arredondo-20a22a292)
+
+---
+
+✨ *Last updated: October 2025 / Actualizado: Octubre 2025*
