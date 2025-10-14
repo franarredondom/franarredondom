@@ -1,3 +1,5 @@
+<img src="https://path/to/your/banner.png" alt="Francisca Arredondo - Fullstack & Cloud Developer" width="100%">
+
 # 👩‍💻 Francisca Arredondo
 
 **Computer Programming Analyst | Fullstack & Cloud Developer**  
