@@ -1,4 +1,4 @@
-<img src="https://path/to/your/banner.png" alt="Francisca Arredondo - Fullstack & Cloud Developer" width="100%">
+<img src="https://raw.githubusercontent.com/franarredondom/franarredondom/main/banner_francisca_arredondo.png" alt="Francisca Arredondo - Fullstack & Cloud Developer" width="100%">
 
 # 👩‍💻 Francisca Arredondo
 
