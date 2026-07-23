@@ -70,7 +70,7 @@ Aplicación móvil híbrida de transporte con autenticación, roles y mapas.
 
 <div align="center">
 
-¿Tienes una oportunidad o un proyecto en mente?  
+¿Tienes una oportunidad o un proyecto en mente?
 [Escríbeme](mailto:fran.arredondom@gmail.com) o revisa mi [portafolio](https://franarredondom.github.io/Portafolio/).
 
 </div>
