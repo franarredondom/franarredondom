@@ -1,89 +1,76 @@
-# 👩‍💻 Francisca Arredondo
+<div align="center">
 
-**Analista Programador Computacional | Desarrolladora Frontend / Fullstack Junior**
+# Hola, soy Francisca Arredondo 👋
 
-📍 Chile  
-📫 fran.arredondom@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/francisca-arredondo-20a22a292)
+### Full Stack Developer · React · TypeScript · Node.js · Python
 
----
+Construyo aplicaciones web completas, desde la experiencia de usuario hasta la API, los datos y el despliegue.
 
-## 👋 Sobre mí
+[![Portafolio](https://img.shields.io/badge/Portafolio-8B7CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://franarredondom.github.io/Portafolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franarredondom/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fran.arredondom@gmail.com)
 
-Soy Analista Programador Computacional titulada en Duoc UC (2025), orientada al desarrollo **Frontend y Fullstack**.
+</div>
 
-Tengo experiencia práctica en el desarrollo de aplicaciones web utilizando **React, JavaScript/TypeScript y bases de datos SQL**, participando en proyectos académicos y una práctica profesional donde asumí liderazgo técnico Frontend.
+## Sobre mí
 
-Me interesa construir soluciones bien estructuradas, aplicar buenas prácticas de desarrollo y seguir aprendiendo dentro de equipos de trabajo reales.
+Soy **Analista Programador Computacional**, titulada en Duoc UC, y desarrolladora Full Stack con experiencia práctica creando productos web funcionales y desplegados.
 
----
+Trabajo con interfaces responsivas, APIs REST, autenticación, bases de datos y automatización. Me interesa transformar problemas reales en soluciones claras, mantenibles y preparadas para crecer.
 
-## 🛠 Tecnologías
+- 📍 Santiago, Chile
+- 💼 Disponible para oportunidades como desarrolladora Frontend o Full Stack
+- 🌱 En aprendizaje continuo sobre arquitectura, seguridad y despliegue
+- 📫 Contacto: **fran.arredondom@gmail.com**
 
-### Desarrollo Web
-- JavaScript / TypeScript
-- React
-- Node.js
-- Laravel
-- SQL (PostgreSQL, MySQL)
+## Proyectos destacados
 
-### Desarrollo Mobile
-- Angular
-- Ionic
+### [PulseOps](https://github.com/franarredondom/PulseOps)
 
-### Lenguajes y tecnologías base
-- HTML5 / CSS3
-- Python
-- Java
-- MongoDB (básico)
+Plataforma privada de auditoría técnica y monitoreo HTTP. Analiza señales de rendimiento, SEO, accesibilidad y seguridad, mantiene informes por usuario y registra incidentes automáticamente.
 
-### Herramientas y metodologías
-- Git / GitHub
-- Scrum / Agile
-- CI/CD básico (GitHub Actions)
+`React` `TypeScript` `FastAPI` `PostgreSQL` `Supabase` `Docker`
 
-### Conocimientos en formación
-- Docker (básico)
-- Kubernetes (conceptos)
-- Azure / AWS (fundamentos)
+[Abrir aplicación](https://pulseops-dashboard.onrender.com/) · [Documentación de la API](https://pulseops-api-qlqu.onrender.com/docs)
 
----
+### [Jornada+](https://github.com/franarredondom/Jornada-)
 
-## 🚀 Proyectos Destacados
+Aplicación para registrar jornadas laborales, turnos nocturnos y horas extra. Calcula montos estimados, presenta resúmenes semanales y exporta el historial a Excel.
 
-### 🔹 MultiStock Sync
-Plataforma SaaS para sincronización y gestión de productos entre **Mercado Libre y WooCommerce**.
+`React` `TypeScript` `Fastify` `PostgreSQL` `Supabase`
 
-**Funcionalidades:**
-- Gestión y sincronización de productos
-- Carga masiva y edición por lotes
-- Validaciones de catálogo
-- Simulación de stock y precios
+### [CazaOfertas CL](https://github.com/franarredondom/Jornada-/tree/main/CazaOfertas)
 
----
+MVP que monitorea productos, mantiene un historial de precios y detecta caídas anormales, con revisiones programadas y alertas por Telegram.
 
-### 🔹 SICAVET
-Sistema integral de gestión veterinaria.
+`Node.js` `SQLite` `JSON-LD` `Telegram Bot API`
 
-**Características:**
-- Gestión de pacientes y tutores
-- Agenda médica
-- Módulos clínicos y de laboratorio
-- Autenticación y control de roles
-- Operaciones CRUD completas
+### [DestinApp](https://github.com/franarredondom/DestinApp)
 
-**Tecnologías:** React, Firebase  
-**Despliegue:** Vercel
+Aplicación móvil híbrida de transporte con autenticación, roles y mapas.
+
+`Angular` `Ionic` `Firebase` `Google Maps`
+
+## Tecnologías
+
+| Área | Herramientas |
+| --- | --- |
+| Frontend | React, Angular, Ionic, TypeScript, JavaScript, HTML y CSS |
+| Backend | Node.js, Fastify, Python, FastAPI, Laravel y APIs REST |
+| Datos | PostgreSQL, MySQL, MongoDB, Firebase y Supabase |
+| Entrega | Git, GitHub Actions, Docker, CI/CD, Render y Vercel |
+| Metodologías | Scrum, Agile, arquitectura modular y buenas prácticas |
+
+## Formación
+
+- **Analista Programador Computacional** — Duoc UC, 2025
+- **Scrum Foundation Professional Certificate** — CertiProf
 
 ---
 
-## 🎓 Formación y Certificaciones
+<div align="center">
 
-- Analista Programador Computacional – Duoc UC (2025)
-- Scrum Foundation – CertiProf
-- Cursos complementarios en Docker, Kubernetes, CI/CD y Cloud (nivel introductorio)
+¿Tienes una oportunidad o un proyecto en mente?  
+[Escríbeme](mailto:fran.arredondom@gmail.com) o revisa mi [portafolio](https://franarredondom.github.io/Portafolio/).
 
----
-
-📌 *Perfil orientado a oportunidades como Desarrolladora Frontend o Fullstack Junior.*
-
+</div>
